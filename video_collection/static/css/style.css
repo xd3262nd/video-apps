@@ -1,0 +1,8 @@
+.navigation{
+    margin: 10px;
+}
+
+.navigation > a {
+    color: lightcoral;
+    padding-right: 30px;
+}
